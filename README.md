@@ -41,6 +41,20 @@ This repository can act as a reference book for future Machine Learning Engineer
 
 Correct me if found anything wrong.
 
-References: 
+# References: 
 Using multiple references for my purpose of learning.
 (whole I N T E R N E T)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+# ML Models
+
+# 1. Supervised Learning
+	a. Linear Regression
+	b. Logistic Regression
+	
+# 2. Unsupervised Learning
+
+# Note:
+Things get updated as move with our learning journey.
