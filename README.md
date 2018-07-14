@@ -1,3 +1,6 @@
+# Machine Learning using Google Collab:
+
+
 This is a Google collab linked code where we can find basics of machine learning using sklearn as well as tensorflow
 
 Using Python3 for Learning Maching Learning Algorithms
@@ -9,7 +12,7 @@ For each kind of Machine Learning Algorithm in this repository we can find
 Eg: Linear Regression will have its model implemented in Scikit Learn on 2 different Datasets,
 It will also have Tensor flow implementation for the same.
 
-Basic Understandings:
+# Basic Understandings:
 
 1. Need no prior installations are needed
 2. Everything can be done at run time in the Google Collaborations
@@ -23,7 +26,7 @@ Basic Understandings:
 5. You can also involve multiple people to collaborate with the code
 6. Deep Learning techniques which require heavy GPU can be used for free here.
 
-	THANKS G O O G L E FOR SUCH A NICE GESTURE
+# THANKS G O O G L E FOR SUCH A NICE GESTURE
 	
 	Hope this continuos free forever.
 	
