@@ -30,7 +30,7 @@ It will also have Tensor flow implementation for the same.
 5. You can also involve multiple people to collaborate with the code
 6. Deep Learning techniques which require heavy GPU can be used for free here.
 
-# THANKS G O O G L E FOR SUCH A NICE GESTURE
+# THANKS "GOOGLE" FOR SUCH A NICE GESTURE
 	
 	Hope this continuos free forever.
 	
