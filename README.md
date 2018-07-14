@@ -1,5 +1,9 @@
 # Machine Learning using Google Collab:
 
+## Key Features:
+1. GIT Integration
+2. Deep Learning Algorithms GPU usage for free
+
 
 This is a Google collab linked code where we can find basics of machine learning using sklearn as well as tensorflow
 
